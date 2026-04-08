@@ -1,0 +1,24 @@
+{
+  "folder": "C:/Users/Public/Digitiamo/PetrolValves",
+  "shell": "powershell",
+  "configs": [
+    {
+      "name": "Local Qwen3.5-9b",
+      "url": "http://localhost:1234",
+      "auth_token": "lmstudio",
+      "model": "qwen/qwen3.5-9b"
+    },
+    {
+      "name": "Local Qwen3.5-27B",
+      "url": "http://127.0.0.1:1234",
+      "auth_token": "lmstudio",
+      "model": "qwen3.5-27b-claude-4.6-opus-reasoning-distilled"
+    },
+    {
+      "name": "Local Gemma4-7.5B",
+      "url": "http://127.0.0.1:1234",
+      "auth_token": "lmstudio",
+      "model": "gemma-4-e4b-it"
+    }
+  ]
+}
