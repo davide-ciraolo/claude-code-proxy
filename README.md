@@ -54,6 +54,6 @@ The executable is output to `dist\claude-proxy.exe`.
 2. Run `claude-proxy.exe`
 3. Add configurations (name, base URL, auth token, model)
 4. Toggle a configuration ON to activate it
-5. Start the proxy and set the `ANTHROPIC_BASE_URL` system enviornment variable to the displayed Proxy URL
+5. Set the `ANTHROPIC_BASE_URL` system environment variable to the displayed Proxy URL and start the proxy. 
 
 `configs.json` is created automatically in the same directory as the executable and persists your configurations between sessions.
