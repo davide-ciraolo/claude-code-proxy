@@ -2,6 +2,8 @@
 
 A local HTTP proxy that lets you route Claude Code requests to different API endpoints without changing environment variables between sessions. Toggle configurations on/off from a GUI — switching keys, base URLs, or models in one click.
 
+<img src="preview.png" alt="App Preview" width="600">
+
 ## How it works
 
 - Runs a local HTTP server (default port `1111`)
